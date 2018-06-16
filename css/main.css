@@ -107,6 +107,7 @@ nav, .menu {
     font-weight: 800;
     font-size: 15px;
     line-height: 1.5;
+    letter-spacing: 0.12em;
 }
 
 .email {
