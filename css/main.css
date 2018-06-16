@@ -59,7 +59,6 @@ h2 {
 }
 
 #first {
- height: 845px;
  background-color: #222719;
  background: url(../img/bg-first.png) no-repeat center top / cover;
 }
@@ -130,4 +129,5 @@ nav, .menu {
 .first__arrow {
     display: block;
     margin: 0 auto;
+    padding-bottom: 80px;
 }
