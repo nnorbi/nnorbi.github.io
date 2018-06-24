@@ -13,6 +13,10 @@ html {
   box-sizing: inherit;
 }
 
+
+
+/* --- MAIN CSS --- */
+
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
@@ -165,10 +169,11 @@ nav, .menu {
 
 .background {
     float: left;
+    width: 435px;
 }
 
 .background__text {
-    width: 435px;
+
     font-size: 15px;
     line-height: 1.5em;
 }
