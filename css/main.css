@@ -218,6 +218,10 @@ color: #fff;
         font-size: 14px;
     }
 
+    h2 {
+        text-align: center;
+    }
+
     .intro__title {
         text-align: center;
     }
