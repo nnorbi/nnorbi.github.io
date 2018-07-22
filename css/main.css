@@ -222,6 +222,10 @@ color: #fff;
         text-align: center;
     }
 
+    .about__text {
+        text-align: center;
+    }
+
     .service__box {
         width: 22em;
         margin: 0 auto;
