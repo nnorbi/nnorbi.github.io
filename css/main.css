@@ -61,7 +61,7 @@ a {
     text-decoration: none;
 }
 
-.home {
+#header {
     background: url("../img/bg.jpg") no-repeat center top / cover;
     height: 100vh;
 }
