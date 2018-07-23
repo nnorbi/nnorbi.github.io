@@ -33,6 +33,10 @@ a {
     color: #fff;
 }
 
+#particles-js {
+    height: 100%;
+}
+
 .header {
     /*background: #202124;*/
     padding: 15px 50px;
@@ -64,10 +68,13 @@ a {
 #header {
     background: url("../img/bg.jpg") no-repeat center top / cover;
     height: 100vh;
+    position: relative;
 }
 
-.intro {
-    padding: 20% 0;
+#home {
+    position: absolute;
+    top: 35%;
+    left: 10%;
 }
 
 .intro__text {
@@ -245,6 +252,10 @@ color: #fff;
 
     h2 {
         font-size: 2em;
+    }
+
+    #home {
+        left: 0;
     }
 
     .intro__title {
