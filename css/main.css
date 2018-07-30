@@ -220,7 +220,9 @@ color: #fff;
 
 /*Medium devices (tablets, less than 992px)*/
 @media (max-width: 991.98px) {
-
+    #particles-js {
+        display: none;
+    }
 }
 
 /*Small devices (landscape phones, less than 768px)*/
